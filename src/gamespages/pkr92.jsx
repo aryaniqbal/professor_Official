@@ -28,7 +28,8 @@ function pkr92() {
                 </section>
                 <h2 id="onlyoneid">Download Now</h2>
                 <section id="btndown">
-                    <button id="btniner">92 PKR</button>
+                    <button id="btniner"><a id="linkcolor" href="https://www.92pkrz.com/#/register?invitationCode=28742968539">92 PKR</a></button>
+
                 </section>
                 <section>
                     <h2 id="onlyoneid">Step-by-Step 92 PKR Login Process:</h2>

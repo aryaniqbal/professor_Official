@@ -36,7 +36,7 @@ function Fantasy() {
 
                 </section>
                 <section id="btndown">
-                    <button id="btniner">Download Fantasy</button>
+                    <button id="btniner"><a id="linkcolor" href="https://www.fantasygems17.com/#/register?invitationCode=67717105959">Download Fantasy</a></button>
                 </section>
                 <section>
                     <h2 id="onlyoneid">Fantasy Gems Game Key Features

@@ -70,7 +70,8 @@ function pakgame() {
                     <h2 id="onlyoneid">Download Pakgames Official App</h2>
                     <p id="allpara">Click on the download button below to get the official app of Pakgames. Download Pakgames apk to play multiple games and earn real cash.</p>
                     <section id="btndown">
-                        <button id="btniner">Download Fantasy</button>
+                        <button id="btniner"><a id="linkcolor" href="https://www.pakgames.bet/#/register?invitationCode=26666218661">PAK GAME</a></button>
+ 
                     </section>
                 </section>
                 <section>

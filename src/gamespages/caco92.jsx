@@ -49,8 +49,8 @@ function caco92() {
                 </section>
                   <h2 id="onlyoneid">Play Now</h2>
                  <section id="btndown">
-                  
-                    <button id="btniner">92 COCO Game</button>
+                  <button id="btniner"><a id="linkcolor" href="https://www.92coco99.com/#/register?invitationCode=76366800595">92 COCO Game</a></button>
+
                 </section>
                 <section>
                     

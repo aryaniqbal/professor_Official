@@ -51,9 +51,9 @@ function glory92() {
                 </section>
                  <h2 id="onlyoneid">play Now</h2>
                 <section id="btndown">
-                   
-                    <button id="btniner">92 Glory Game</button>
+                    <button id="btniner"><a id="linkcolor" href="https://www.92glory.win/#/register?invitationCode=42152741996">92 Glory Game</a></button>
                 </section>
+                
                 <section>
                     <h2 id="onlyoneid">What Is 92 Glory Game?</h2>
                     <p id="allpara">92 Glory is a mobile-first gaming platform designed for Pakistani users, blending entertainment with earning opportunities. Whether you enjoy lotteries, slots, card games, or color prediction, this app lets you turn your gaming passion into real cash. It's user-friendly, secure, and constantly updated to keep the experience fresh 92 GLORY92 Glory92 Glory.

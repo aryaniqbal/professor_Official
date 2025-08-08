@@ -47,7 +47,7 @@ function jeeto92() {
                   
 
                 <section id="btndown">
-                    <button id="btniner">Download Jeeto92</button>
+                    <button id="btniner"><a id="linkcolor" href="https://www.92lotto.biz/#/register?invitationCode=11516112103">Download Jeeto92</a></button>
                 </section>
                 <section>
                     <h2 id="onlyoneid">How Good is 92 Jeeto ?</h2>

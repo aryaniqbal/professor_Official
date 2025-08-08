@@ -27,7 +27,7 @@ function r92() {
                     <section>
                         <h2 id="onlyoneid">Play Now</h2>
                         <section id="btndown">
-                    <button id="btniner">R92 Game</button>
+                            <button id="btniner"><a id="linkcolor" href="https://www.92r.app/#/register?invitationCode=56725105366">R92 Game</a></button>
                 </section>
                     </section>
                     <h2 id="onlyoneid">Games You Can Play</h2>

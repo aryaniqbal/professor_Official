@@ -53,7 +53,8 @@ function dado92() {
                     </section>
                 </section>
                 <section id="btndown">
-                    <button id="btniner">Download 92 Dado</button>
+                    <button id="btniner"><a id="linkcolor" href="https://www.92dadu88.com/#/register?invitationCode=67581100607">Download 92 Dado</a></button>
+
                 </section>
                 <section>
                     <h2 id="onlyoneid">What is the 92 Dadu Game?</h2>
