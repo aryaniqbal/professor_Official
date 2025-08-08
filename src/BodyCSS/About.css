@@ -22,6 +22,10 @@ padding-right: 53px;
 #linkcolor{
     color: white;
 }
+#whitepro{
+color: black !important;
+}
+
 @media (max-width: 768px) {
 #para {
     padding-left: 55px;

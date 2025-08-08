@@ -28,15 +28,15 @@ function jeeto92() {
                     <table style={{ borderCollapse: "collapse", width: "50%", textAlign: "left" }} border="1">
                         <tbody>
                             <tr>
-                                <th>Application Name</th>
+                                <th id="whitepro">Application Name</th>
                                 <td id="colorjeeto">92 Jeeto</td>
                             </tr>
                             <tr>
-                                <th>Total Users</th>
+                                <th id="whitepro">Total Users</th>
                                 <td id="colorjeeto">1M+</td>
                             </tr>
                             <tr>
-                                <th>Download Size</th>
+                                <th id="whitepro">Download Size</th>
                                 <td id="colorjeeto">17 MB</td>
                             </tr>
                         </tbody>

@@ -32,19 +32,19 @@ function dado92() {
                         <table style={{ borderCollapse: "collapse", width: "50%", textAlign: "left" }} border="1">
                             <tbody>
                                 <tr>
-                                    <th>Application Name</th>
+                                    <th id="whitepro">Application Name</th>
                                     <td id="colorjeeto">92 Dadu Game</td>
                                 </tr>
                                 <tr>
-                                    <th>Size</th>
+                                    <th id="whitepro">Size</th>
                                     <td id="colorjeeto">30 MB</td>
                                 </tr>
                                 <tr>
-                                    <th>Version</th>
+                                    <th id="whitepro">Version</th>
                                     <td id="colorjeeto">1.1</td>
                                 </tr>
                                 <tr>
-                                    <th>Update</th>
+                                    <th id="whitepro">Update</th>
                                     <td id="colorjeeto">Today</td>
                                 </tr>
                             </tbody>

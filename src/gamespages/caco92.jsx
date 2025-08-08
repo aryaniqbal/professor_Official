@@ -27,19 +27,19 @@ function caco92() {
                         <table style={{ borderCollapse: "collapse", width: "50%", textAlign: "left" }} border="1">
                             <tbody>
                                 <tr>
-                                    <th>Application Name</th>
+                                    <th id="whitepro">Application Name</th>
                                     <td id="colorjeeto">92 COCO Game</td>
                                 </tr>
                                 <tr>
-                                    <th>Size</th>
+                                    <th id="whitepro">Size</th>
                                     <td id="colorjeeto">23 MB</td>
                                 </tr>
                                 <tr>
-                                    <th>Developer</th>
+                                    <th id="whitepro">Developer</th>
                                     <td id="colorjeeto">Professor.official</td>
                                 </tr>
                                 <tr>
-                                    <th>Requirement</th>
+                                    <th id="whitepro">Requirement</th>
                                     <td id="colorjeeto">Android, iOS, Web Version</td>
                                 </tr>
                             </tbody>

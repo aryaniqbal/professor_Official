@@ -29,19 +29,19 @@ function pakgame() {
                         <table style={{ borderCollapse: "collapse", width: "50%", textAlign: "left" }} border="1">
                             <tbody>
                                 <tr>
-                                    <th>Application Name</th>
+                                    <th id="whitepro">Application Name</th>
                                     <td id="colorjeeto">Pakgames</td>
                                 </tr>
                                 <tr>
-                                    <th>Size </th>
+                                    <th id="whitepro">Size </th>
                                     <td id="colorjeeto">4.5MB</td>
                                 </tr>
                                 <tr>
-                                    <th>Category</th>
+                                    <th id="whitepro">Category</th>
                                     <td id="colorjeeto">Gaming</td>
                                 </tr>
                                 <tr>
-                                    <th>App Version</th>
+                                    <th id="whitepro">App Version</th>
                                     <td id="colorjeeto">Latest</td>
                                 </tr>
                             </tbody>

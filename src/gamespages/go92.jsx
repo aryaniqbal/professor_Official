@@ -32,23 +32,23 @@ function go92() {
                         <table style={{ borderCollapse: "collapse", width: "50%", textAlign: "left" }} border="1">
                             <tbody>
                                 <tr>
-                                    <th>Application Name</th>
+                                    <th id="whitepro">Application Name</th>
                                     <td id="colorjeeto">92 Go</td>
                                 </tr>
                                 <tr>
-                                    <th>Size</th>
+                                    <th id="whitepro">Size</th>
                                     <td id="colorjeeto">10.3 MB</td>
                                 </tr>
                                 <tr>
-                                    <th>Version</th>
+                                    <th id="whitepro">Version</th>
                                     <td id="colorjeeto">V2.2</td>
                                 </tr>
                                 <tr>
-                                    <th>Developer</th>
+                                    <th id="whitepro">Developer</th>
                                     <td id="colorjeeto">92go</td>
                                 </tr>
                                 <tr>
-                                    <th>License</th>
+                                    <th id="whitepro">License</th>
                                     <td id="colorjeeto">Free (0$)</td>
                                 </tr>
                             </tbody>

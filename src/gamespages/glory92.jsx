@@ -26,23 +26,23 @@ function glory92() {
                     <table style={{ borderCollapse: "collapse", width: "50%", textAlign: "left" }} border="1">
                         <tbody>
                             <tr>
-                                <th>Application Name</th>
+                                <th id="whitepro">Application Name</th>
                                 <td id="colorjeeto">92 Glory Game</td>
                             </tr>
                             <tr>
-                                <th>Size</th>
+                                <th id="whitepro">Size</th>
                                 <td id="colorjeeto">30 MB</td>
                             </tr>
                             <tr>
-                                <th>Version</th>
+                                <th id="whitepro">Version</th>
                                 <td id="colorjeeto">V1.0</td>
                             </tr>
                             <tr>
-                                <th>Developer:</th>
+                                <th id="whitepro">Developer:</th>
                                 <td id="colorjeeto">92glory.com.pk</td>
                             </tr>
                             <tr>
-                                <th>Category</th>
+                                <th id="whitepro">Category</th>
                                 <td id="colorjeeto">Color Prediction, Lottery & Casino</td>
                             </tr>
                         </tbody>
