@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 import '../BodyCSS/home.css';
 import img1 from '../assets/Professter.png';
 import pkr92 from '../assets/92pkr.jpeg'
@@ -50,35 +51,36 @@ function Home() {
       </div>
 
       <section id="changepostionontop">
-        <Counter  start={1000000000} end={1000000087} speed={50} /><span id="hoja">$</span>
+        <Counter start={1000000000} end={1000000087} speed={50} /><span id="hoja">$</span>
       </section>
       <section>
         <h2 id="changestyle">*Proffeser.official* پاکستان کی ایک بہترین گیم ویب سائٹ ہے جہاں آپ مختلف کمائی والی گیمز ایک ہی جگہ پر کھیل سکتے ہیں۔ یہ پلیٹ فارم آپ کو مہارت اور قسمت کے ذریعے انعام جیتنے کا شاندار موقع فراہم کرتا ہے۔</h2>
       </section>
-      
+
       <section>
         <h2 id="changestyle"> Best online games in Pakistan</h2>
       </section>
       <section id="firstsection2">
-        <a href="https://www.fantasygems17.com/#/register?invitationCode=67717105959"><img src={f6} alt="PKR" /></a>
-        <a href="https://www.92lotto.biz/#/register?invitationCode=11516112103"><img src={f7} alt="PKR" /></a>
-        <a href="https://www.pakgames.bet/#/register?invitationCode=26666218661"><img src={f8} alt="PKR" /></a>
+        <Link id="fantasy" to="/fantasy" className="nav-link"><img src={f6} alt="PKR" /></Link>
+        <Link id="jeeto92" to="/jeeto92" className="nav-link"><img src={f7} alt="PKR" /></Link>
+        <Link id="jeeto92" to="/pakgame" className="nav-link"><img src={f8} alt="PKR" /></Link>
+
       </section>
       <section>
         <h2 id="changestyle">Online Earning Games</h2>
       </section>
       <section id="firstsection">
-        <a href="https://www.92dadu88.com/#/register?invitationCode=67581100607"><img src={f4} alt="PKR" /></a>
-        <a href="https://www.92pkrz.com/#/register?invitationCode=28742968539"><img src={f5} alt="PKR" /></a>
-        <a href="https://92go11.com//#/register?invitationCode=45327106952"><img src={f9} alt="PKR" /></a>
+        <Link id="fantasy" to="/dado92" className="nav-link"><img src={f4} alt="PKR" /></Link>
+        <Link id="fantasy" to="/pkr92" className="nav-link"><img src={f5} alt="PKR" /></Link>
+        <Link id="fantasy" to="/go92" className="nav-link"><img src={f9} alt="PKR" /></Link>
       </section>
       <section>
         <h2 id="changestyle">Earning game in Pakistan</h2>
       </section>
       <section id="firstsection1">
-        <a href="https://www.92glory.win/#/register?invitationCode=42152741996"><img src={f1} alt="PKR" /></a>
-        <a href="https://www.92r.app/#/register?invitationCode=56725105366"><img src={f2} alt="PKR" /></a>
-        <a href="https://www.92coco99.com/#/register?invitationCode=76366800595"><img src={f3} alt="PKR" /></a>
+        <Link id="fantasy" to="/glory92" className="nav-link"><img src={f1} alt="PKR" /></Link>
+        <Link id="fantasy" to="/r92" className="nav-link"><img src={f2} alt="PKR" /></Link>
+        <Link id="fantasy" to="/caco92" className="nav-link"><img src={f3} alt="PKR" /></Link>
       </section>
       {/* form section */}
       <section>
